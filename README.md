@@ -13,6 +13,6 @@ I made this to implement my knowledge on the Document Object Model (DOM) and see
 
 ## Link
 
-You can see the full project here --> (Bouncy Ball game)[https://codepen.io/Adeel0o0/full/YzrLXyz]
+You can see the full project here --> [Bouncy Ball game](https://codepen.io/Adeel0o0/full/YzrLXyz)
 
 
