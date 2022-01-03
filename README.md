@@ -9,7 +9,7 @@ I made this to implement my knowledge on the Document Object Model (DOM) and see
 
 - HTML
 - CSS
-- JS (DOM)
+- JS 
 
 ## Link
 
